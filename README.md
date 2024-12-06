@@ -1,4 +1,12 @@
-## Hi there 👋
+## Introduction
+
+# I am Kouki Shimada
+
+## Tech Stack
+
+## About Me
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 <!--
 **kouki0318/kouki0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
