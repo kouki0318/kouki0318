@@ -4,7 +4,7 @@
 
 # Tech Stack
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,vim,php,go,scilab)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,vim,php,go,assmblry)
 
 # About Me
 
