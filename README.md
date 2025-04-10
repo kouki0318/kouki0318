@@ -2,7 +2,7 @@
 
 #### Hi there 👋 I'm Kouki Shimada
 
-#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=I'm+a+Frontend+Developer;I+❤️+React%2C+JS+%26+Vite;Learning+Java+%26+Backend+Too)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=I'm+a+Frontend+Developer;I+❤️+React%2C+JS+%26+Vite;Learning+Java+%26+Backend+Too)](https://git.io/typing-svg)
 
 # 🛠 Tech Stack
 
