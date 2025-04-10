@@ -26,9 +26,9 @@
 
 # 🚀 My Projects
 
-- 🔍 Search App - A simple search app using React  
-- ✅ ToDo App - Task management app built with React  
-- 🌤️ Weather App - Weather checker built with React and OpenWeatherMap API
+- 🔍 [Search App](https://search-app-hazel-tau.vercel.app/) - A simple search app using React  
+- ✅ [ToDo App](https://my-todo-app-kappa-taupe.vercel.app/) - Task management app built with React  
+- 🌤️ [Weather App](https://weather-app-xi-drab-26.vercel.app/) - Weather checker built with React and OpenWeatherMap API
 
 
 
