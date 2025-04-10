@@ -1,4 +1,4 @@
-# Introduction
+# 👋　Introduction
 
 #### Hi there 👋 I'm Kouki Shimada
 
