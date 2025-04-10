@@ -9,10 +9,6 @@
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,php,java,flutter)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=あなたのGitHubユーザー名&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 # About Me
 
 <a href="https://github.com/tocoteron">
