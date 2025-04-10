@@ -18,6 +18,12 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
 </a>
 
+## 🚀 My Projects
+
+- 🔍 [Search App](search-app-hazel-tau.vercel.app) - A simple search app using React
+- ✅ [ToDo App](my-todo-app-kappa-taupe.vercel.app) - Task management app built with React
+
+
 <!--
 **kouki0318/kouki0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
