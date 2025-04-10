@@ -18,8 +18,7 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
 </a>
 
-
-## 🚀 My Projects
+# 🚀 My Projects
 
 - 🔍 [Search App](search-app-hazel-tau.vercel.app) - A simple search app using React
 - ✅ [ToDo App](my-todo-app-kappa-taupe.vercel.app) - Task management app built with React
