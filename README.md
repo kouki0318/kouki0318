@@ -29,7 +29,9 @@
 - 🔍 [Search App](https://search-app-hazel-tau.vercel.app/) - A simple search app using React  
 - ✅ [ToDo App](https://my-todo-app-kappa-taupe.vercel.app/) - Task management app built with React  
 - 🌤️ [Weather App](https://weather-app-xi-drab-26.vercel.app/) - Weather checker built with React and OpenWeatherMap API  
-- 🛗 [Elevator Simulator](https://elevator-simulator-app.vercel.app/) - A basic elevator simulator built with React
+- 🛗 [Elevator Simulator](https://elevator-simulator-app.vercel.app/) - A basic elevator simulator built with React  
+- 🎲 [Random Number App](https://my-random-app.vercel.app/) - A React app that randomly selects 4 unique numbers from 1 to 49 without duplication
+
 
 
 
